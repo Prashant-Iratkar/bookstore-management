@@ -1,0 +1,40 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Naruto",
+      "author": "Kishimoto",
+      "price": "500"
+    },
+    {
+      "id": "2",
+      "title": "One Pice",
+      "author": "Echigo Oda",
+      "price": "400"
+    },
+    {
+      "id": "3",
+      "title": "Atomic Habits ",
+      "author": "James Clear",
+      "price": "550"
+    },
+    {
+      "id": "4",
+      "title": "Rich Dad Poor Son ",
+      "author": "Poor Son ",
+      "price": "300"
+    },
+    {
+      "id": "5",
+      "title": "Black Clover",
+      "author": "Deneshwar Bhandarkar",
+      "price": "1000"
+    },
+    {
+      "id": "6",
+      "title": "asdasfas",
+      "author": "dfdsfsdfds",
+      "price": "323"
+    }
+  ]
+}
